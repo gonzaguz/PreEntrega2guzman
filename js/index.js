@@ -127,11 +127,11 @@ function sumaCantidad(e){
 }
 
 function addLocalStorage(){
-  localStorage.setItem('carrito', JSON.stringify(carrito))
+  localStorage.setItem("carrito", JSON.stringify(carrito))
 }
 
 window.onload = function(){
-  const storage = JSON.parse(localStorage.getItem('carrito'));
+  const storage = JSON.parse(localStorage.getItem("carrito"));
   if(storage){
     carrito = storage;
     renderCarrito()

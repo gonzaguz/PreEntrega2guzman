@@ -1,0 +1,51 @@
+[
+    {
+        "nombre": "AURICULAR BLUETOOTH MI AIRdOTS 5.0",
+        "precio": 6000,
+        "img": "../assets/producto1.jpg"
+
+    },
+    {
+        "nombre": "CABLE USB IPHONE WHITE 5/6/7 ORIGINAL 1M",
+        "precio": 1700,
+        "img": "../assets/producto2.jpg"
+
+    },
+    {
+        "nombre": "Car Charger Mini 18W Micro USB Cable",
+        "precio": 3600,
+        "img": "../assets/producto3.jpg"
+
+    },
+    {
+        "nombre": "DEVOLO 550 + WIFI SINGLE",
+        "precio": 21000,
+        "img": "../assets/producto4.jpg"
+
+    },
+    {
+        "nombre": "GALAXY WATCH ACTIVE 2",
+        "precio": 42000,
+        "img": "../assets/producto5.jpg"
+
+    },
+    {
+        "nombre": "JOYSTICK SONY PS4 JET BLACK",
+        "precio": 13000,
+        "img": "../assets/producto6.jpg"
+
+    },
+    {
+        "nombre": "KINGSTON MEMORIA MICRO SD 8GB",
+        "precio": 1000,
+        "img": "../assets/producto7.jpg"
+
+    },
+    {
+        "nombre": "MI TV STICK android tv FHD 1920X1080",
+        "precio": 7950,
+        "img": "../assets/producto8.jpg"
+
+    }
+
+]
